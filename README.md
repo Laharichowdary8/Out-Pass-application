@@ -1,6 +1,6 @@
 >>About Team-16 Project<<
 
-> Project Name=Outpass application for amity students
+> Project Name=Outpass application for amity University Bangalore students
 
 > Detail About Our Project-> 
                               By the name you can understand that it is an application for amity students for the OUTPASS to go out of the campus and it is easy to use too...
@@ -11,5 +11,5 @@
                     3>Nelluri Baby Lahari
                     4>Samriddhiii
                     5>Patchipulusajaswitha
-> Future Plans-> To make it advanced and turn this *webpage to an application..
+> Future Plans-> To make it advanced and turn this *webpage to an application.
                             
